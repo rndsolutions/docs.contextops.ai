@@ -4,7 +4,11 @@ on:
   push:
     branches:
       - main  # Set this to your default branch
-
+permissions:
+  id-token: write
+  contents: read
+  pages: write
+  
 jobs:
   build:
     runs-on: ubuntu-latest
