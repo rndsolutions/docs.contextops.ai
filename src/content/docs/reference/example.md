@@ -1,10 +1,9 @@
 ---
-title: Example Reference
-description: A reference page in my new Starlight docs site.
+title: ContextOps.AI Reference
+description: A comprehensive reference for ContextOps.AI features and usage.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+This reference page details the features and functionalities of ContextOps.AI, helping you understand and utilize the tool effectively.
 
 ## Further reading
 
